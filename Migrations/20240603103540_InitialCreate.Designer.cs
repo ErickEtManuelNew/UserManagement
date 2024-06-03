@@ -11,7 +11,7 @@ using UserManagementApi.Data;
 namespace UserManagementApi.Migrations
 {
     [DbContext(typeof(UserContext))]
-    [Migration("20240601211823_InitialCreate")]
+    [Migration("20240603103540_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
